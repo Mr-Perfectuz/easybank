@@ -1,3 +1,14 @@
+/* Custom Properties  */
+:root{
+     --strong-blue-green: #2AB6D9;
+     --strong-green: #33D35E;
+     --green: #30C88F;
+     --light-black: #2D314D;
+     --light-color:  #9597A5;
+     --white: #FFFFFF;
+}
+
+
 /* Global  */
 
 html{
